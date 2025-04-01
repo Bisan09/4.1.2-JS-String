@@ -39,3 +39,7 @@ console.log("Empieza por 'h'?:", cadena.startsWith("h"));
 /*Apartado 10*/
 
 console.log("Empieza por 'H'?:", cadena.startsWith("H"));
+
+/*Apartado 11*/
+
+console.log(`${"r".repeat(10)}`);
