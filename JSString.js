@@ -43,3 +43,9 @@ console.log("Empieza por 'H'?:", cadena.startsWith("H"));
 /*Apartado 11*/
 
 console.log(`${"r".repeat(10)}`);
+
+/*Apartado 12*/
+
+let nombre = "Ivan";
+let apellidos = "Bisan Etame Gómez";
+let edad = 23;
