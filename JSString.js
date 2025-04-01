@@ -35,3 +35,7 @@ console.log("Segunda parte:", segundaParte);
 /*Apartado 9*/
 
 console.log("Empieza por 'h'?:", cadena.startsWith("h"));
+
+/*Apartado 10*/
+
+console.log("Empieza por 'H'?:", cadena.startsWith("H"));
