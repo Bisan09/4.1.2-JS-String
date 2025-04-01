@@ -17,3 +17,7 @@ console.log("Minúsculas:", cadena.toLowerCase());
 /*Apartado 5*/
 
 console.log("Posición de 'o':", cadena.indexOf("o"));
+
+/*Apartado 6*/
+
+console.log("Posición de 'Hola':", cadena.indexOf("Hola"));
