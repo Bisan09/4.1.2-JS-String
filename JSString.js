@@ -31,3 +31,7 @@ console.log("Reemplazo:", nuevaCadena);
 
 let segundaParte = cadena.split(" ")[1];
 console.log("Segunda parte:", segundaParte);
+
+/*Apartado 9*/
+
+console.log("Empieza por 'h'?:", cadena.startsWith("h"));
