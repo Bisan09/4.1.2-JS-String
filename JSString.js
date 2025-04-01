@@ -13,3 +13,7 @@ console.log("Mayúsculas:", cadena.toUpperCase());
 /*Apartado 4*/
 
 console.log("Minúsculas:", cadena.toLowerCase());
+
+/*Apartado 5*/
+
+console.log("Posición de 'o':", cadena.indexOf("o"));
