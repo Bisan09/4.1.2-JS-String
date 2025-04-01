@@ -26,3 +26,8 @@ console.log("Posición de 'Hola':", cadena.indexOf("Hola"));
 
 let nuevaCadena = cadena.replace("Mundo", "Youtube");
 console.log("Reemplazo:", nuevaCadena);
+
+/*Apartado 8*/
+
+let segundaParte = cadena.split(" ")[1];
+console.log("Segunda parte:", segundaParte);
