@@ -21,3 +21,8 @@ console.log("Posición de 'o':", cadena.indexOf("o"));
 /*Apartado 6*/
 
 console.log("Posición de 'Hola':", cadena.indexOf("Hola"));
+
+/*Apartdo 7*/
+
+let nuevaCadena = cadena.replace("Mundo", "Youtube");
+console.log("Reemplazo:", nuevaCadena);
