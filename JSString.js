@@ -49,3 +49,7 @@ console.log(`${"r".repeat(10)}`);
 let nombre = "Ivan";
 let apellidos = "Bisan Etame Gómez";
 let edad = 23;
+
+/*Apartado 13*/
+
+console.log(`Nombre: ${nombre}, Apellidos: ${apellidos}, Edad: ${edad}`);
