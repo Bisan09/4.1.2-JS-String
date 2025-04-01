@@ -9,3 +9,7 @@ console.log("Longitud:", cadena.length);
 /*Apartado 3*/
 
 console.log("Mayúsculas:", cadena.toUpperCase());
+
+/*Apartado 4*/
+
+console.log("Minúsculas:", cadena.toLowerCase());
